@@ -1,0 +1,32 @@
+transaction_id,date,customer_id,region,product_category,units_sold,unit_price,discount_pct,total_revenue,shipping_cost,payment_method,customer_rating,returned
+TXN-1001,2024-01-05,CUST-201,North America,Electronics,3,299.99,0.05,854.97,14.50,Credit Card,4.8,No
+TXN-1002,2024-01-07,CUST-202,Europe,Home & Kitchen,1,120.00,0.00,120.00,8.20,PayPal,4.2,No
+TXN-1003,2024-01-08,CUST-203,Asia-Pacific,Fashion,5,45.00,0.15,191.25,5.00,Credit Card,3.9,Yes
+TXN-1004,2024-01-10,CUST-204,North America,Beauty,2,35.50,0.10,63.90,4.50,Debit Card,4.9,No
+TXN-1005,2024-01-12,CUST-205,Europe,Electronics,2,549.00,0.20,878.40,19.00,Credit Card,4.5,No
+TXN-1006,2024-01-15,CUST-206,Latin America,Home & Kitchen,4,85.00,0.05,323.00,12.00,PayPal,3.1,Yes
+TXN-1007,2024-01-18,CUST-207,North America,Sports,1,150.00,0.00,150.00,9.50,Credit Card,4.7,No
+TXN-1008,2024-01-20,CUST-208,Asia-Pacific,Electronics,6,199.99,0.25,899.96,22.00,Credit Card,4.6,No
+TXN-1009,2024-01-22,CUST-209,Europe,Sports,2,75.00,0.10,135.00,7.00,Credit Card,4.0,No
+TXN-1010,2024-01-25,CUST-210,North America,Fashion,8,25.00,0.30,140.00,6.50,Debit Card,3.5,Yes
+TXN-1011,2024-02-01,CUST-211,North America,Electronics,4,349.99,0.10,1259.96,15.00,Credit Card,4.9,No
+TXN-1012,2024-02-03,CUST-212,Asia-Pacific,Home & Kitchen,3,110.00,0.00,330.00,11.50,PayPal,4.1,No
+TXN-1013,2024-02-05,CUST-213,Europe,Fashion,2,95.00,0.10,171.00,6.00,Credit Card,4.4,No
+TXN-1014,2024-02-08,CUST-214,Latin America,Beauty,5,42.00,0.20,168.00,8.00,Debit Card,3.8,No
+TXN-1015,2024-02-12,CUST-215,North America,Electronics,1,1200.00,0.05,1140.00,25.00,Credit Card,5.0,No
+TXN-1016,2024-02-14,CUST-216,Europe,Sports,3,130.00,0.15,331.50,13.00,PayPal,4.3,No
+TXN-1017,2024-02-17,CUST-217,Asia-Pacific,Beauty,4,50.00,0.00,200.00,7.50,Credit Card,4.7,No
+TXN-1018,2024-02-20,CUST-218,North America,Home & Kitchen,2,220.00,0.25,330.00,14.00,Credit Card,3.6,Yes
+TXN-1019,2024-02-24,CUST-219,Europe,Electronics,3,450.00,0.10,1215.00,18.00,Credit Card,4.6,No
+TXN-1020,2024-02-28,CUST-220,Latin America,Fashion,6,38.00,0.00,228.00,9.00,PayPal,4.0,No
+TXN-1021,2024-03-02,CUST-221,North America,Sports,4,89.00,0.10,320.40,11.00,Credit Card,4.5,No
+TXN-1022,2024-03-05,CUST-222,Asia-Pacific,Electronics,2,699.00,0.15,1188.30,20.00,Credit Card,4.7,No
+TXN-1023,2024-03-08,CUST-223,Europe,Beauty,3,65.00,0.05,185.25,5.50,Debit Card,4.8,No
+TXN-1024,2024-03-12,CUST-224,North America,Home & Kitchen,5,95.00,0.20,380.00,16.00,PayPal,3.4,Yes
+TXN-1025,2024-03-15,CUST-225,Latin America,Sports,2,110.00,0.00,220.00,10.00,Credit Card,4.2,No
+TXN-1026,2024-03-18,CUST-226,Europe,Electronics,1,850.00,0.10,765.00,17.00,Credit Card,4.8,No
+TXN-1027,2024-03-20,CUST-227,Asia-Pacific,Fashion,7,55.00,0.25,288.75,8.50,Credit Card,3.7,Yes
+TXN-1028,2024-03-22,CUST-228,North America,Beauty,4,70.00,0.10,252.00,6.00,Debit Card,4.9,No
+TXN-1029,2024-03-25,CUST-229,Europe,Home & Kitchen,2,180.00,0.15,306.00,12.50,PayPal,4.3,No
+TXN-1030,2024-03-29,CUST-230,North America,Electronics,5,400.00,0.20,1600.00,24.00,Credit Card,4.9,No
+
