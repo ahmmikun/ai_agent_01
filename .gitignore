@@ -1,0 +1,22 @@
+# Environment / secrets — NEVER commit your local .env
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Agent sandbox runtime (ephemeral generated scripts)
+.sandbox_runtime/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
